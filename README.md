@@ -1,2 +1,2 @@
 # mcsrv
-minecraft docker container
+Minecraft container docker series.
